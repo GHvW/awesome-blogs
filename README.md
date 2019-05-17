@@ -25,6 +25,8 @@
 
 * [Cloudflare](https://blog.cloudflare.com/)
 
+* [Discord Engineering](https://blog.discordapp.com/tagged/engineering)
+
 ## Tech Learning Sites
 * [CSS-Tricks](https://css-tricks.com/) - All things front-end and more
 
