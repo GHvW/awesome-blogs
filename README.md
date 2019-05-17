@@ -17,6 +17,8 @@
 
 * [Fred Hebert](https://ferd.ca/) - Erlang/Elixir
 
+* [Tomas Petricek](http://tomasp.net/blog/) - F#
+
 
 
 ## Company Tech Blogs
