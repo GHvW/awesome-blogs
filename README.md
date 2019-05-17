@@ -15,6 +15,8 @@
 
 * [Julia Evans](https://jvns.ca/) - Rust, Networking, Data/Machine Learning, Career
 
+* [Fred Hebert](https://ferd.ca/) - Erlang/Elixir
+
 
 
 ## Company Tech Blogs
@@ -26,6 +28,10 @@
 * [Cloudflare](https://blog.cloudflare.com/)
 
 * [Discord Engineering](https://blog.discordapp.com/tagged/engineering)
+
+* [Heroku Engineering](https://blog.heroku.com/engineering)
+
+* [Erlang Solutions](https://www.erlang-solutions.com/blog.html)
 
 ## Tech Learning Sites
 * [CSS-Tricks](https://css-tricks.com/) - All things front-end and more
