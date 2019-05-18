@@ -27,6 +27,8 @@
 
 * [John De Goes](http://degoes.net/) - Scala, PureScript, Haskell
 
+* [Matthias Endler](https://matthias-endler.de/) - 
+
 
 
 ## Company Tech Blogs
