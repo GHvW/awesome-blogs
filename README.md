@@ -2,6 +2,13 @@
 
 * [Embedded Elixir](https://embedded-elixir.com/) - Elixir, Nerves, Embedded
 
+* [Base CS](https://medium.com/basecs) - Data Structures, Algorithms
+* [Base DS](https://medium.com/baseds) - Distributed Systems
+
+* [Demistifying FP](https://www.demystifyfp.com/) - F#, Functional Programming
+
+* [1024 Cores](http://blog.1024cores.net/) - Multi-core programming/design
+
 ## Personal Blogs
 * [Seanmonster/Sean McArthur](https://seanmonstar.com/) - Rust, Web, Servers
 
@@ -27,9 +34,27 @@
 
 * [John De Goes](http://degoes.net/) - Scala, PureScript, Haskell
 
-* [Matthias Endler](https://matthias-endler.de/) - 
+* [Matthias Endler](https://matthias-endler.de/) - Go, Rust
 
+* [Byte Rot](http://byterot.blogspot.com/) - .Net
 
+* [Case Portman](https://www.caseportman.com/) - Game Design/Engineering
+
+* [Haoyi's Programming Blog](http://www.lihaoyi.com/) - Scala
+
+* [Nate Taylor](http://taylonr.com/)
+
+* [Mikhail Shilkov](https://mikhail.io/) - F#, C#, .Net, Lambda
+
+* [Taylor Fausak](https://taylor.fausak.me/) - Haskell
+
+* [Clean Coder/Bob Martin](http://blog.cleancoder.com/)
+
+* [Andrew Gallant's Blog](https://blog.burntsushi.net/) - Rust
+
+* [The Code Barbarian](https://thecodebarbarian.com/) - JavaScript, Node
+
+* [Philip Wadler's Blog](http://wadler.blogspot.com/)
 
 ## Company Tech Blogs
 * [Netflix Engineering](https://medium.com/netflix-techblog)
