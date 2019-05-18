@@ -25,6 +25,8 @@
 
 * [Sarah Drasner](https://sarahdrasnerdesign.com/writing/) - JavaScript, Vue, SVG, Animation
 
+* [John De Goes](http://degoes.net/) - Scala, PureScript, Haskell
+
 
 
 ## Company Tech Blogs
