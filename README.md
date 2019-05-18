@@ -19,6 +19,12 @@
 
 * [Tomas Petricek](http://tomasp.net/blog/) - F#
 
+* [Dan Abramov](https://overreacted.io/) - JavaScript, React
+
+* [Swift by Sundell](https://www.swiftbysundell.com/) - Swift, iOS
+
+* [Sarah Drasner](https://sarahdrasnerdesign.com/writing/) - JavaScript, Vue, SVG, Animation
+
 
 
 ## Company Tech Blogs
