@@ -70,6 +70,8 @@
 
 * [Erlang Solutions](https://www.erlang-solutions.com/blog.html)
 
+* [Jet Tech](https://medium.com/jettech)
+
 ## Tech Learning Sites
 * [CSS-Tricks](https://css-tricks.com/) - All things front-end and more
 
