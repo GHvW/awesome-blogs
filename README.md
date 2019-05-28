@@ -9,6 +9,8 @@
 
 * [1024 Cores](http://blog.1024cores.net/) - Multi-core programming/design
 
+* [High Scalability](http://highscalability.com/)
+
 ## Personal Blogs
 * [Seanmonster/Sean McArthur](https://seanmonstar.com/) - Rust, Web, Servers
 
