@@ -58,7 +58,7 @@
 
 * [Philip Wadler's Blog](http://wadler.blogspot.com/)
 
-* [Barbarian Meets Coding](https://www.barbarianmeetscoding.com/)
+* [Barbarian Meets Coding](https://www.barbarianmeetscoding.com/) - Vim, JavaScript
 
 ## Company Tech Blogs
 * [Netflix Engineering](https://medium.com/netflix-techblog)
