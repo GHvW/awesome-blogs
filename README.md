@@ -58,6 +58,8 @@
 
 * [Philip Wadler's Blog](http://wadler.blogspot.com/)
 
+* [Barbarian Meets Coding](https://www.barbarianmeetscoding.com/)
+
 ## Company Tech Blogs
 * [Netflix Engineering](https://medium.com/netflix-techblog)
 
