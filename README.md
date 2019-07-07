@@ -60,6 +60,8 @@
 
 * [Barbarian Meets Coding](https://www.barbarianmeetscoding.com/) - Vim, JavaScript
 
+* [Alexis King](https://lexi-lambda.github.io/) - Racket, Haskell, JavaScript
+
 ## Company Tech Blogs
 * [Netflix Engineering](https://medium.com/netflix-techblog)
 
