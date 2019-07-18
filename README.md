@@ -62,6 +62,8 @@
 
 * [Alexis King](https://lexi-lambda.github.io/) - Racket, Haskell, JavaScript
 
+* [Joseph Albahari](http://www.albahari.com/) - C#, Threading
+
 ## Company Tech Blogs
 * [Netflix Engineering](https://medium.com/netflix-techblog)
 
