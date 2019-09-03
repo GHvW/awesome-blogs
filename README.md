@@ -64,6 +64,8 @@
 
 * [Joseph Albahari](http://www.albahari.com/) - C#, Threading
 
+* [Odoe](https://odoe.net/blog/) - Esri, JavaScript
+
 ## Company Tech Blogs
 * [Netflix Engineering](https://medium.com/netflix-techblog)
 
