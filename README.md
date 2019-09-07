@@ -66,7 +66,7 @@
 
 * [Odoe](https://odoe.net/blog/) - Esri, JavaScript
 
-* [Phil Hagelberg](https://technomancy.us/) - Clojure, Fennel, Lisp, Tic-80, Love2d
+* [Phil Hagelberg](https://technomancy.us/colophon) - Clojure, Fennel, Lisp, Tic-80, Love2d
 
 ## Company Tech Blogs
 * [Netflix Engineering](https://medium.com/netflix-techblog)
