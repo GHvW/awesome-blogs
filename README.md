@@ -68,6 +68,10 @@
 
 * [Phil Hagelberg](https://technomancy.us/colophon) - Clojure, Fennel, Lisp, Tic-80, Love2d
 
+* [HardMath](https://hardmath123.github.io/) - Awesome
+
+* [Jeremy Kun](https://jeremykun.com/) - Math & Programming, -- [another one?](https://j2kun.svbtle.com/)
+
 ## Company Tech Blogs
 * [Netflix Engineering](https://medium.com/netflix-techblog)
 
