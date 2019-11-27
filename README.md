@@ -72,6 +72,8 @@
 
 * [Jeremy Kun](https://jeremykun.com/) - Math & Programming, -- [another one?](https://j2kun.svbtle.com/)
 
+* [Andy Wingo](https://wingolog.org/) - Guile, Concurrency
+
 ## Company Tech Blogs
 * [Netflix Engineering](https://medium.com/netflix-techblog)
 
