@@ -74,6 +74,8 @@
 
 * [Andy Wingo](https://wingolog.org/) - Guile, Concurrency
 
+* [Bogdan Popa](https://defn.io/) - Racket, Python, JS
+
 ## Company Tech Blogs
 * [Netflix Engineering](https://medium.com/netflix-techblog)
 
