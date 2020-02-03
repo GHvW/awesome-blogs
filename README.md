@@ -11,6 +11,8 @@
 
 * [High Scalability](http://highscalability.com/)
 
+* [Scratch Pixel 2.0](https://www.scratchapixel.com/index.php?redirect) - Computer Graphics
+
 ## Personal Blogs
 * [Seanmonster/Sean McArthur](https://seanmonstar.com/) - Rust, Web, Servers
 
