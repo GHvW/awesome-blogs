@@ -78,6 +78,8 @@
 
 * [Bogdan Popa](https://defn.io/) - Racket, Python, JS
 
+* [Ben Eater](https://eater.net/) - Hardware / Software cross
+
 ## Company Tech Blogs
 * [Netflix Engineering](https://medium.com/netflix-techblog)
 
