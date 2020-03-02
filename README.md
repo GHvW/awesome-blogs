@@ -80,6 +80,8 @@
 
 * [Ben Eater](https://eater.net/) - Hardware / Software cross
 
+* [Matt Might](http://matt.might.net/) - Computer Science, Functional Programming
+
 ## Company Tech Blogs
 * [Netflix Engineering](https://medium.com/netflix-techblog)
 
