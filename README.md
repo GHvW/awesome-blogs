@@ -82,6 +82,8 @@
 
 * [Matt Might](http://matt.might.net/) - Computer Science, Functional Programming
 
+* [Bartosz Sypytkowski](https://bartoszsypytkowski.com/) - F#, Concurrency
+
 ## Company Tech Blogs
 * [Netflix Engineering](https://medium.com/netflix-techblog)
 
