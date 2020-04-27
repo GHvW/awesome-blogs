@@ -84,6 +84,8 @@
 
 * [Bartosz Sypytkowski](https://bartoszsypytkowski.com/) - F#, Concurrency
 
+* [James Sinclair](https://jrsinclair.com/) - JavaScript, Functional Programming
+
 ## Company Tech Blogs
 * [Netflix Engineering](https://medium.com/netflix-techblog)
 
