@@ -86,6 +86,8 @@
 
 * [James Sinclair](https://jrsinclair.com/) - JavaScript, Functional Programming
 
+* [Eric Lippert](https://ericlippert.com/)
+
 ## Company Tech Blogs
 * [Netflix Engineering](https://medium.com/netflix-techblog)
 
