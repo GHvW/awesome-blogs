@@ -88,6 +88,8 @@
 
 * [Eric Lippert](https://ericlippert.com/)
 
+* [Pat Shaughnessy](http://patshaughnessy.net/) - Ruby, CS, Rust, ASM, Crystal
+
 ## Company Tech Blogs
 * [Netflix Engineering](https://medium.com/netflix-techblog)
 
