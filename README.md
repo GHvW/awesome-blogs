@@ -13,6 +13,8 @@
 
 * [Scratch Pixel 2.0](https://www.scratchapixel.com/index.php?redirect) - Computer Graphics
 
+* [Bekk Christmas](https://bekk.christmas/)
+
 ## Personal Blogs
 * [Seanmonster/Sean McArthur](https://seanmonstar.com/) - Rust, Web, Servers
 
