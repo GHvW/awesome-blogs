@@ -15,7 +15,6 @@
 
 * [Bekk Christmas](https://bekk.christmas/)
 
-* [Red Blog Games](https://www.redblobgames.com/)
 
 ## Personal Blogs
 * [Seanmonster/Sean McArthur](https://seanmonstar.com/) - Rust, Web, Servers
@@ -93,6 +92,12 @@
 * [Eric Lippert](https://ericlippert.com/)
 
 * [Pat Shaughnessy](http://patshaughnessy.net/) - Ruby, CS, Rust, ASM, Crystal
+
+* [Joe Best-Rotheray - Coder's Block](https://www.codersblock.org/) - Netcode, Network Programming, C++
+
+* [Red Blog Games](https://www.redblobgames.com/)
+
+* [Gabriel Gambetta](https://www.gabrielgambetta.com/index.html) - Game programming
 
 ## Company Tech Blogs
 * [Netflix Engineering](https://medium.com/netflix-techblog)
