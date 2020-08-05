@@ -95,9 +95,12 @@
 
 * [Joe Best-Rotheray - Coder's Block](https://www.codersblock.org/) - Netcode, Network Programming, C++
 
-* [Red Blog Games](https://www.redblobgames.com/)
+* [Red Blob Games](https://www.redblobgames.com/)
 
 * [Gabriel Gambetta](https://www.gabrielgambetta.com/index.html) - Game programming
+
+* [Jonas Boner](http://jonasboner.com/) - Scala, Reactive, Microservices
+
 
 ## Company Tech Blogs
 * [Netflix Engineering](https://medium.com/netflix-techblog)
