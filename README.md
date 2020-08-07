@@ -101,6 +101,7 @@
 
 * [Jonas Boner](http://jonasboner.com/) - Scala, Reactive, Microservices
 
+* [Wiem Zine](https://medium.com/@wiemzin) - Scala, Concurrency, Parallelism
 
 ## Company Tech Blogs
 * [Netflix Engineering](https://medium.com/netflix-techblog)
