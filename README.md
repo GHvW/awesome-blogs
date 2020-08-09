@@ -103,6 +103,8 @@
 
 * [Wiem Zine](https://medium.com/@wiemzin) - Scala, Concurrency, Parallelism
 
+* [Glenn Fielder](https://www.gafferongames.com/) - netcode, games, C++
+
 ## Company Tech Blogs
 * [Netflix Engineering](https://medium.com/netflix-techblog)
 
