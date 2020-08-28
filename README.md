@@ -106,6 +106,8 @@
 * [Glenn Fielder](https://www.gafferongames.com/) - netcode, games, C++
 
 ## Company Tech Blogs
+* [Uber Engineering](https://eng.uber.com/)
+
 * [Netflix Engineering](https://medium.com/netflix-techblog)
 
 * [Dropbox Tech](https://blogs.dropbox.com/tech/)
