@@ -17,6 +17,8 @@
 
 
 ## Personal Blogs
+* [Evelina Gabasova](http://evelinag.com/) - Data Science, Machine Learning, F#
+
 * [Seanmonster/Sean McArthur](https://seanmonstar.com/) - Rust, Web, Servers
 
 * [Jared Forsyth](https://jaredforsyth.com/) - Reason, React, Ocaml, JavaScript
