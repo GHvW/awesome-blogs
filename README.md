@@ -105,7 +105,11 @@
 
 * [Glenn Fielder](https://www.gafferongames.com/) - netcode, games, C++
 
+* [Ricardo Terrell](http://www.rickyterrell.com/) - .NET, F#, Concurrency
+
 ## Company Tech Blogs
+* [Twitter Engineering](https://blog.twitter.com/engineering/en_us.html)
+
 * [Uber Engineering](https://eng.uber.com/)
 
 * [Netflix Engineering](https://medium.com/netflix-techblog)
