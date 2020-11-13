@@ -15,6 +15,8 @@
 
 * [Bekk Christmas](https://bekk.christmas/)
 
+* [Higher Logistics](https://higherlogics.blogspot.com/) - .NET
+
 
 ## Personal Blogs
 * [Evelina Gabasova](http://evelinag.com/) - Data Science, Machine Learning, F#
