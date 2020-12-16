@@ -111,6 +111,8 @@
 
 * [Ricardo Terrell](http://www.rickyterrell.com/) - .NET, F#, Concurrency
 
+* [Tai-Danae Bradley - Math3ma](https://www.math3ma.com/) - Math
+
 ## Company Tech Blogs
 * [Twitter Engineering](https://blog.twitter.com/engineering/en_us.html)
 
