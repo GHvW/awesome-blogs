@@ -113,6 +113,8 @@
 
 * [Tai-Danae Bradley - Math3ma](https://www.math3ma.com/) - Math
 
+* [ploeh blog - Mark Seemann](https://blog.ploeh.dk/) - Software Design, Dependency Injection
+
 ## Company Tech Blogs
 * [Twitter Engineering](https://blog.twitter.com/engineering/en_us.html)
 
