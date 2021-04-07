@@ -115,6 +115,8 @@
 
 * [ploeh blog - Mark Seemann](https://blog.ploeh.dk/) - Software Design, Dependency Injection
 
+* [Vladimir Agafonkin](https://agafonkin.com/) - Spatial Algorithms, JavaScript, Mapbox
+
 ## Company Tech Blogs
 * [Twitter Engineering](https://blog.twitter.com/engineering/en_us.html)
 
