@@ -117,6 +117,8 @@
 
 * [Vladimir Agafonkin](https://agafonkin.com/) - Spatial Algorithms, JavaScript, Mapbox
 
+* [Matthew Crews](https://matthewcrews.com/) - F#, Machine Learning, Mathematical Planning
+
 ## Company Tech Blogs
 * [Twitter Engineering](https://blog.twitter.com/engineering/en_us.html)
 
