@@ -131,6 +131,8 @@
 * [Dropbox Tech](https://blogs.dropbox.com/tech/)
 * [Dropbox Developers](https://blogs.dropbox.com/developers/)
 
+* [Captial One Tech](https://medium.com/capital-one-tech)
+
 * [Cloudflare](https://blog.cloudflare.com/)
 
 * [Discord Engineering](https://blog.discordapp.com/tagged/engineering)
