@@ -17,6 +17,8 @@
 
 * [Higher Logistics](https://higherlogics.blogspot.com/) - .NET
 
+* [Distill](https://distill.pub/) - Machine Learning
+
 
 ## Personal Blogs
 * [Evelina Gabasova](http://evelinag.com/) - Data Science, Machine Learning, F#
