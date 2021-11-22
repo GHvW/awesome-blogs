@@ -123,6 +123,8 @@
 
 * [Runar Bjarnson - Higher-Order](http://blog.higher-order.com/) - Philosophy and Functional Programming, Scala
 
+* [Bogdan Popa - defn.io](https://defn.io/) - Racket
+
 ## Company Tech Blogs
 * [Twitter Engineering](https://blog.twitter.com/engineering/en_us.html)
 
