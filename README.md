@@ -127,6 +127,8 @@
 
 * [Bogdan Popa - defn.io](https://defn.io/) - Racket
 
+* [Tai-Danae Bradley - Math3ma](https://www.math3ma.com/) - Math, Category Theory
+
 ## Company Tech Blogs
 * [Twitter Engineering](https://blog.twitter.com/engineering/en_us.html)
 
