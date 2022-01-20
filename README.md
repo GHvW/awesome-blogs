@@ -129,6 +129,8 @@
 
 * [Tai-Danae Bradley - Math3ma](https://www.math3ma.com/) - Math, Category Theory
 
+* [Hillel Wayne](https://www.hillelwayne.com/post/)
+
 ## Company Tech Blogs
 * [Twitter Engineering](https://blog.twitter.com/engineering/en_us.html)
 
