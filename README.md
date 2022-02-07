@@ -125,8 +125,6 @@
 
 * [Runar Bjarnson - Higher-Order](http://blog.higher-order.com/) - Philosophy and Functional Programming, Scala
 
-* [Bogdan Popa - defn.io](https://defn.io/) - Racket
-
 * [Tai-Danae Bradley - Math3ma](https://www.math3ma.com/) - Math, Category Theory
 
 * [Hillel Wayne](https://www.hillelwayne.com/post/)
