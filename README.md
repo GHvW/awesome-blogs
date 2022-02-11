@@ -155,6 +155,8 @@
 
 * [Grammarly Engineering](https://www.grammarly.com/blog/engineering/)
 
+* [Google AI](https://ai.googleblog.com/)
+
 ## Tech Learning Sites
 * [CSS-Tricks](https://css-tricks.com/) - All things front-end and more
 
