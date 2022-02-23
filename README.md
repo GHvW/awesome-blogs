@@ -129,6 +129,8 @@
 
 * [Hillel Wayne](https://www.hillelwayne.com/post/)
 
+* [Nikita Prokopov](https://tonsky.me/)
+
 ## Company Tech Blogs
 * [Twitter Engineering](https://blog.twitter.com/engineering/en_us.html)
 
