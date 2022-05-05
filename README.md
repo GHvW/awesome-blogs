@@ -159,6 +159,8 @@
 
 * [Google AI](https://ai.googleblog.com/)
 
+* [James Hague - Programming in the twenty-first century](https://prog21.dadgum.com/)
+
 ## Tech Learning Sites
 * [CSS-Tricks](https://css-tricks.com/) - All things front-end and more
 
