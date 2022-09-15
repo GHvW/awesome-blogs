@@ -127,11 +127,13 @@
 
 * [Tai-Danae Bradley - Math3ma](https://www.math3ma.com/) - Math, Category Theory
 
-* [Hillel Wayne](https://www.hillelwayne.com/post/)
+* [Hillel Wayne](https://www.hillelwayne.com/post/) - TLA+
 
-* [Nikita Prokopov](https://tonsky.me/)
+* [Nikita Prokopov](https://tonsky.me/) - Clojure, JVM
 
 * [James Hague - Programming in the twenty-first century](https://prog21.dadgum.com/)
+
+* [Rus Cox](https://research.swtch.com/) - Go, CSP
 
 ## Company Tech Blogs
 * [Twitter Engineering](https://blog.twitter.com/engineering/en_us.html)
