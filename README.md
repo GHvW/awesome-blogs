@@ -21,6 +21,8 @@
 
 * [Words and Buttons Online](https://wordsandbuttons.online/) - Math, Algorithms, Programming
 
+* [Bitsquid](https://bitsquid.blogspot.com/)
+
 
 ## Personal Blogs
 * [Evelina Gabasova](http://evelinag.com/) - Data Science, Machine Learning, F#
@@ -134,6 +136,8 @@
 * [James Hague - Programming in the twenty-first century](https://prog21.dadgum.com/)
 
 * [Rus Cox](https://research.swtch.com/) - Go, CSP
+
+* [Jamie Brandon](https://www.scattered-thoughts.net/)
 
 ## Company Tech Blogs
 * [Twitter Engineering](https://blog.twitter.com/engineering/en_us.html)
