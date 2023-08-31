@@ -139,6 +139,10 @@
 
 * [Jamie Brandon](https://www.scattered-thoughts.net/)
 
+* [Oren Eini](https://ayende.com/blog/) - Performance, C#
+
+* [Daniel Lemire](https://lemire.me/blog/) - Performance
+
 ## Company Tech Blogs
 * [Twitter Engineering](https://blog.twitter.com/engineering/en_us.html)
 
